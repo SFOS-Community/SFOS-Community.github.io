@@ -1,4 +1,4 @@
-# Personal Website
+# SFOS Community Website
 
 A community website created for fun
 
